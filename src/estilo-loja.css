@@ -1,14 +1,21 @@
-.table {
-    border-collapse: collapse;
-    width: 100%;
+body {
+    background: url("./imagens/fundo.png") no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Arial';
 }
-.th, .td {
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto; 
+    width: 600px;
+}
+th, td {
     border: 2px solid silver;
     padding: 8px;
     text-align: center;
 }
-.body {
-    background-image: url("./imagens/fundo.png");
-    background-size: cover;
-    background: no-repeat;
+h1 {
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 28px;
+    color: limegreen;
 }

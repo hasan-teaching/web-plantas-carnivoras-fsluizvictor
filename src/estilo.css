@@ -1,6 +1,7 @@
-.body{
-    background-image: url("./imagens/fundo.png");
-    background-size: cover;
-    background: no-repeat;
-  }
+body {
+  background: url("./imagens/fundo.png") no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Arial';
+}
+
   
