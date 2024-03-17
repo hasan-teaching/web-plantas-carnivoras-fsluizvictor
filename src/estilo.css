@@ -4,4 +4,28 @@ body {
   font-family: 'Arial';
 }
 
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 28px; 
+  color: limegreen;
+}
+
+p {
+  font-family: Arial, sans-serif; text-align: justify;
+}
   
+blockquote {
+  font-family: Arial, sans-serif; text-align: justify;
+}
+
+ul {
+  font-family: Arial, sans-serif;
+}
+
+li {
+  font-family: Arial, sans-serif; color: blue;
+}
+
+.list-sections {
+  display: flex; 
+}
